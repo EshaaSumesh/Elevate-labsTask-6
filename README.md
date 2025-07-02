@@ -6,7 +6,7 @@ To understand what makes a password strong by creating various types of password
 ---
 
 ## 🔧 Tool Used
-- [PasswordMeter](https://www.passwordmeter.com/)
+- https://passwordmeter.com/
 - (Optional alternative tools: Kaspersky Password Checker, NordPass Strength Checker)
 
 ---
