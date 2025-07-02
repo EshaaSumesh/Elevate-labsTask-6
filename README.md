@@ -15,11 +15,11 @@ To understand what makes a password strong by creating various types of password
 
 | Password          | Length | Complexity              | Score (%) | Feedback from Tool |
 |-------------------|--------|--------------------------|-----------|---------------------|
-| `hello123`        | 8      | lowercase + digits       | 26%       | Too short, weak     |
-| `Hello@123`       | 9      | upper+lower+digit+symbol | 64%       | Moderate strength   |
-| `H3ll0@W0rld2025!`| 15     | upper+lower+digits+symbol| 94%       | Strong              |
-| `admin`           | 5      | common word              | 12%       | Very weak, common   |
-| `Pa$$w0rd!Secure` | 15     | upper+symbol+digits      | 89%       | Strong              |
+| `hello123`        | 8      | lowercase + digits       | 37%       | weak     |
+| `Hello@123`       | 9      | upper+lower+digit+symbol | 81%       | very strong   |
+| `H3ll0@W0rld2025!`| 15     | upper+lower+digits+symbol| 100%       | Very Strong              |
+| `admin`           | 5      | common word              | 7%       | Very weak, common   |
+| `Pa$$w0rd!Secure` | 15     | upper+symbol+digits      | 100%       | Very Strong              |
 
 
 
